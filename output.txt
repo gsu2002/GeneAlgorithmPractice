@@ -1,0 +1,400 @@
+
+evolution 1
+mean : 43.0
+optimum fit : 74
+
+evolution 2
+mean : 44.0
+optimum fit : 72
+
+evolution 3
+mean : 45.0
+optimum fit : 72
+
+evolution 4
+mean : 45.0
+optimum fit : 71
+
+evolution 5
+mean : 45.0
+optimum fit : 70
+
+evolution 6
+mean : 45.0
+optimum fit : 72
+
+evolution 7
+mean : 45.0
+optimum fit : 70
+
+evolution 8
+mean : 44.0
+optimum fit : 70
+
+evolution 9
+mean : 44.0
+optimum fit : 71
+
+evolution 10
+mean : 44.0
+optimum fit : 72
+
+evolution 11
+mean : 43.0
+optimum fit : 70
+
+evolution 12
+mean : 43.0
+optimum fit : 69
+
+evolution 13
+mean : 43.0
+optimum fit : 71
+
+evolution 14
+mean : 43.0
+optimum fit : 69
+
+evolution 15
+mean : 42.0
+optimum fit : 69
+
+evolution 16
+mean : 42.0
+optimum fit : 68
+
+evolution 17
+mean : 43.0
+optimum fit : 68
+
+evolution 18
+mean : 42.0
+optimum fit : 73
+
+evolution 19
+mean : 42.0
+optimum fit : 70
+
+evolution 20
+mean : 42.0
+optimum fit : 70
+
+evolution 21
+mean : 42.0
+optimum fit : 68
+
+evolution 22
+mean : 42.0
+optimum fit : 67
+
+evolution 23
+mean : 42.0
+optimum fit : 67
+
+evolution 24
+mean : 42.0
+optimum fit : 73
+
+evolution 25
+mean : 42.0
+optimum fit : 71
+
+evolution 26
+mean : 41.0
+optimum fit : 65
+
+evolution 27
+mean : 41.0
+optimum fit : 66
+
+evolution 28
+mean : 41.0
+optimum fit : 65
+
+evolution 29
+mean : 41.0
+optimum fit : 66
+
+evolution 30
+mean : 41.0
+optimum fit : 67
+
+evolution 31
+mean : 41.0
+optimum fit : 70
+
+evolution 32
+mean : 41.0
+optimum fit : 68
+
+evolution 33
+mean : 41.0
+optimum fit : 69
+
+evolution 34
+mean : 41.0
+optimum fit : 66
+
+evolution 35
+mean : 42.0
+optimum fit : 66
+
+evolution 36
+mean : 42.0
+optimum fit : 68
+
+evolution 37
+mean : 41.0
+optimum fit : 67
+
+evolution 38
+mean : 41.0
+optimum fit : 68
+
+evolution 39
+mean : 41.0
+optimum fit : 67
+
+evolution 40
+mean : 41.0
+optimum fit : 66
+
+evolution 41
+mean : 41.0
+optimum fit : 64
+
+evolution 42
+mean : 41.0
+optimum fit : 68
+
+evolution 43
+mean : 41.0
+optimum fit : 66
+
+evolution 44
+mean : 40.0
+optimum fit : 67
+
+evolution 45
+mean : 41.0
+optimum fit : 66
+
+evolution 46
+mean : 41.0
+optimum fit : 69
+
+evolution 47
+mean : 41.0
+optimum fit : 67
+
+evolution 48
+mean : 40.0
+optimum fit : 65
+
+evolution 49
+mean : 41.0
+optimum fit : 63
+
+evolution 50
+mean : 41.0
+optimum fit : 70
+
+evolution 51
+mean : 41.0
+optimum fit : 66
+
+evolution 52
+mean : 41.0
+optimum fit : 66
+
+evolution 53
+mean : 41.0
+optimum fit : 66
+
+evolution 54
+mean : 41.0
+optimum fit : 65
+
+evolution 55
+mean : 42.0
+optimum fit : 63
+
+evolution 56
+mean : 42.0
+optimum fit : 69
+
+evolution 57
+mean : 41.0
+optimum fit : 66
+
+evolution 58
+mean : 40.0
+optimum fit : 67
+
+evolution 59
+mean : 42.0
+optimum fit : 70
+
+evolution 60
+mean : 41.0
+optimum fit : 65
+
+evolution 61
+mean : 41.0
+optimum fit : 69
+
+evolution 62
+mean : 40.0
+optimum fit : 64
+
+evolution 63
+mean : 42.0
+optimum fit : 62
+
+evolution 64
+mean : 41.0
+optimum fit : 64
+
+evolution 65
+mean : 40.0
+optimum fit : 65
+
+evolution 66
+mean : 42.0
+optimum fit : 64
+
+evolution 67
+mean : 42.0
+optimum fit : 67
+
+evolution 68
+mean : 42.0
+optimum fit : 68
+
+evolution 69
+mean : 42.0
+optimum fit : 64
+
+evolution 70
+mean : 41.0
+optimum fit : 66
+
+evolution 71
+mean : 43.0
+optimum fit : 66
+
+evolution 72
+mean : 42.0
+optimum fit : 64
+
+evolution 73
+mean : 42.0
+optimum fit : 63
+
+evolution 74
+mean : 42.0
+optimum fit : 63
+
+evolution 75
+mean : 41.0
+optimum fit : 63
+
+evolution 76
+mean : 41.0
+optimum fit : 68
+
+evolution 77
+mean : 42.0
+optimum fit : 63
+
+evolution 78
+mean : 42.0
+optimum fit : 62
+
+evolution 79
+mean : 39.0
+optimum fit : 65
+
+evolution 80
+mean : 40.0
+optimum fit : 68
+
+evolution 81
+mean : 41.0
+optimum fit : 66
+
+evolution 82
+mean : 39.0
+optimum fit : 62
+
+evolution 83
+mean : 39.0
+optimum fit : 63
+
+evolution 84
+mean : 41.0
+optimum fit : 65
+
+evolution 85
+mean : 40.0
+optimum fit : 62
+
+evolution 86
+mean : 40.0
+optimum fit : 68
+
+evolution 87
+mean : 43.0
+optimum fit : 61
+
+evolution 88
+mean : 40.0
+optimum fit : 65
+
+evolution 89
+mean : 39.0
+optimum fit : 65
+
+evolution 90
+mean : 43.0
+optimum fit : 64
+
+evolution 91
+mean : 37.0
+optimum fit : 62
+
+evolution 92
+mean : 42.0
+optimum fit : 62
+
+evolution 93
+mean : 41.0
+optimum fit : 67
+
+evolution 94
+mean : 41.0
+optimum fit : 64
+
+evolution 95
+mean : 41.0
+optimum fit : 63
+
+evolution 96
+mean : 41.0
+optimum fit : 64
+
+evolution 97
+mean : 42.0
+optimum fit : 60
+
+evolution 98
+mean : 42.0
+optimum fit : 61
+
+evolution 99
+mean : 42.0
+optimum fit : 63
+
+evolution 100
+mean : 40.0
+optimum fit : 67
